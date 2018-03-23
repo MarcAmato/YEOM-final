@@ -1,0 +1,12 @@
+table tr td {
+    border: 1px solid #ccc;
+}
+
+textarea {
+    resize: none;
+}
+
+a {
+    padding-left: 5px;
+    padding-right: 5px;
+}
